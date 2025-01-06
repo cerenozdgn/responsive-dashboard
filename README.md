@@ -31,6 +31,8 @@ const response = await axios.post(
     },
   }
 );
+```
+
 ## API Request Parameters
 
 The following parameters are included in the API request:
@@ -120,9 +122,11 @@ Example response from the API:
         "total_count": 16
     }
 }
+```
 
 
 
 ## Conclusion
 - This project demonstrates how to build a clean, responsive frontend that integrates with an external API to display dynamic data. The app includes features like 
  dark/light mode, persistent filters, and an intuitive interface for interacting with scanning tools. 
+
