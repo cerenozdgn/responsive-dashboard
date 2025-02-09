@@ -1,6 +1,6 @@
-# Frontend Developer Task for S4E.io
+# Responsive Dashboard
 
-This project is designed for S4E.io, a cybersecurity platform that continuously identifies and reports system vulnerabilities. The task involves building a frontend interface that fetches and displays a list of scanning tools from an API, providing a user-friendly experience.
+The task involves building a frontend interface that fetches and displays a list of scanning tools from an API, providing a user-friendly experience.
 
 ## Features
 
